@@ -9,5 +9,5 @@ const userAnswer = selectrRadio.value;
         document.getElementById("feedback").innerText = "That's incorrect. Try again!";
      }
      document.getElementById("submit answer").addEventListener("submit-answer",)
-     function checkAnswer(addEventListener)
+     
     
